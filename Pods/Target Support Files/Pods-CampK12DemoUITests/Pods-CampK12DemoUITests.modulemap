@@ -1,0 +1,6 @@
+framework module Pods_CampK12DemoUITests {
+  umbrella header "Pods-CampK12DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

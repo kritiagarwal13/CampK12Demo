@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CampK12Demo.xcscheme_^#shared#^_</key>
+		<key>Pods-CampK12Demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-CampK12DemoTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-CampK12DemoUITests.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
